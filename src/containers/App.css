@@ -1,0 +1,17 @@
+
+#App {
+    background-color: blue;
+}
+
+@font-face {
+    font-family: 'Mega Brush Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Mega Brush Regular'), url('../../Mega Brush.woff') format('woff');
+}
+
+h1 {
+    font-family: 'Mega Brush Regular', serif;
+    font-weight: 200;
+    color: white;
+}
